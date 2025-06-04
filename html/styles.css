@@ -1,0 +1,8 @@
+#logo {
+    position: fixed;
+    top: 0;
+    right: 0;
+    max-height: 20%;
+    max-width: 20.5%;
+    display: none; 
+}
